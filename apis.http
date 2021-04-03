@@ -1,0 +1,8 @@
+###
+# Motivational quotes
+GET https://zenquotes.io/api/random
+
+###
+# Humor 
+GET https://official-joke-api.appspot.com/random_joke
+
